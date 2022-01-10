@@ -53,8 +53,8 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 Una vez hecho eso vas a colorcar en termux los siguientes comandos
 
 ```bash
-> git clone https://github.com/Axel/AxelBot
-> cd AxelBot
+> git clone https://github.com/AxelWL/Bot
+> cd Axel Bot
 > npm start
 ```
 
@@ -109,7 +109,7 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 ## Vuelves a poner los comandos
 
 ```bash
-> cd AxelBot
+> cd Axel Bot
 > npm start
 ```
 
