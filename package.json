@@ -38,10 +38,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Axel/AxelBot.git"
+    "url": "git+https://github.com/Axel/Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Axel/AxelBot.git"
+    "url": "https://github.com/AxelWL/Bot.git"
   },
-  "homepage": "https://github.com/Axel/AxelBot#readme"
+  "homepage": "https://github.com/AxelWL/Bot#readme"
 }
