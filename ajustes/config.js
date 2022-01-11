@@ -1,5 +1,5 @@
 const config = {
-        botName: 'AxelBot',
+        botName: 'ShanBot',
         ownerName: 'Axel',
        
 }
